@@ -1,0 +1,14 @@
+
+Proqramlasd?rma dilind? operator kompilyator v? ya t?rcum?ciy? spesifik riyazi, ?laq?li v? ya mant?ksal ?m?liyyatlar yerin? yetirm?k v? son n?tic? c?xarmaq ucun bir simvol verir.C, Java v? Python-da movcud olan muhum arifmetik v? ?laq?li operatorlar vasit?sil? aparacaq.
+
+Aritmetik Operatorlar
+Komputer proqramlar? riyazi hesablamalar ucun genis istifad? olunur. P (x) = x4 + 7x3 - 5x + 9 kimi kompleks bir t?nliyi h?ll ed? bil?c?k bir proqram yazmaq mumkundur. Komputer t?rtibat?nda oxsar anlay?slar movcuddur.
+
+Asag?dak? iki numun?y? n?z?r salaq
+
+2 + 3
+
+P (x) = x4 + 7x3 - 5x + 9.
+Bu iki ifad?y? bir proqramlasd?rma dilind? arifmetik ifad?l?r deyilir v? ?lav? olaraq bu ifad?l?rd? istifad? olunan arifmetik operatorlar deyilir v? bu ifad?l?rd? istifad? olunan d?y?rl?r 2, 3 v? x kimi ifad?l?r? ?m?l adlan?r. ?n sad? s?kild? bu cur numun?l?r numun?vi n?tic?l?r verir.
+
+Eyni s?kild? bir proqramlasd?rma dili muxt?lif aritmetik operatorlar? t?min edir. 
